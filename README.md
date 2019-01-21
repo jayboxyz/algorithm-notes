@@ -11,7 +11,14 @@
   > LeetCode, HackRank, 剑指offer, classic algorithm implementation
 
 - [soulmachine/leetcode](https://github.com/soulmachine/leetcode)
+
   > LeetCode题解，151道题完整版
+
+- [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
+
+  > Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+
+  
 
   
 

@@ -1,6 +1,9 @@
 # 数据结构和算法学习
 记录算法与数据结构的学习过程，LeetCode刷题，为大厂努力...
 
+- LeetCode: <https://leetcode-cn.com/>
+- 牛客网在线编程：<https://www.nowcoder.com/activity/oj>
+
 
 
 
@@ -26,7 +29,11 @@ GitHub优质仓库：
 
   > Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 
+- 左耳朵耗子-陈皓：[haoel/leetcode](https://github.com/haoel/leetcode)
 
+  > LeetCode Problems' Solutions
+
+- [结构化算法刷题训练指南 － 小专栏](<https://xiaozhuanlan.com/Lisanaaa>)
 
 书籍：
 
@@ -36,6 +43,7 @@ GitHub优质仓库：
 
 视频：
 
+- 花花酱LeetCode 视频：[Bilibili 传送门](<https://space.bilibili.com/9880352/channel/index>)  |  [YouTube 传送门](<https://www.youtube.com/user/xxfflower/playlists>)
 - bobo老师：[深度实战玩转算法-慕课网实战](https://coding.imooc.com/class/138.html)
 
 网站：

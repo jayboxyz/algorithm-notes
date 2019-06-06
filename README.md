@@ -1,18 +1,31 @@
-# 数据结构和算法学习
-记录算法与数据结构的学习过程，LeetCode刷题，为大厂努力...
+# 数据结构与算法学习
+记录数据结构与算法的学习过程、LeetCode刷题，为大厂努力...
 
-- LeetCode: <https://leetcode-cn.com/>
+
+
+## LeetCode
+
+- LeetCode 官网：<https://leetcode.com/>
+- LeetCode 中国：<https://leetcode-cn.com/>  - 和 LeetCode 官网差不多，使用这个网站即可。
 - 牛客网在线编程：<https://www.nowcoder.com/activity/oj>
 
+Leetcode 刷题笔记：
+
+- 
+
+
+
+## 数据结构
+
+- 
 
 
 
 
-## 学习资源
+
+## 学习资料
 
 对初学者的建议：https://www.imooc.com/article/26624 
-
-
 
 GitHub优质仓库：
 

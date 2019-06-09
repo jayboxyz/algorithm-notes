@@ -5,8 +5,10 @@
 
 ## LeetCode
 
-- LeetCode 官网：<https://leetcode.com/>
+- LeetCode 官网：<https://leetcode.com/> 
+  -  题库：<https://leetcode.com/problemset/all/>
 - LeetCode 中国：<https://leetcode-cn.com/>  - 和 LeetCode 官网差不多，使用这个网站即可。
+  - 题库：  <https://leetcode-cn.com/problemset/all/>  【荐】（直接进去刷题）
 - 牛客网在线编程：<https://www.nowcoder.com/activity/oj>
 
 Leetcode 刷题笔记：
@@ -27,8 +29,12 @@ Leetcode 刷题笔记：
 
 对初学者的建议：https://www.imooc.com/article/26624 
 
-GitHub优质仓库：
+资料收集：
 
+
+- [azl397985856/leetcode](<https://github.com/azl397985856/leetcode>)
+
+  > LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 
 - [apachecn/awesome-algorithm](https://github.com/apachecn/awesome-algorithm)
 
@@ -45,6 +51,8 @@ GitHub优质仓库：
 - 左耳朵耗子-陈皓：[haoel/leetcode](https://github.com/haoel/leetcode)
 
   > LeetCode Problems' Solutions
+
+- [《LeetBook（LeetCode详解）》](<https://legacy.gitbook.com/book/hk029/leetbook/details>)
 
 - [结构化算法刷题训练指南 － 小专栏](<https://xiaozhuanlan.com/Lisanaaa>)
 

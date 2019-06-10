@@ -1,29 +1,27 @@
 # 数据结构与算法学习
 记录数据结构与算法的学习过程、LeetCode刷题，为大厂努力...
 
+数据结构
+---
 
+- 
 
 ## LeetCode
 
-- LeetCode 官网：<https://leetcode.com/> 
+- LeetCode(英文)：<https://leetcode.com/> 
   -  题库：<https://leetcode.com/problemset/all/>
-- LeetCode 中国：<https://leetcode-cn.com/>  - 和 LeetCode 官网差不多，使用这个网站即可。
+- LeetCode(中文)：<https://leetcode-cn.com/>  - 使用该网站即可。
   - 题库：  <https://leetcode-cn.com/problemset/all/>  【荐】（直接进去刷题）
-- 牛客网在线编程：<https://www.nowcoder.com/activity/oj>
+- 牛客网：<https://www.nowcoder.com>
 
-Leetcode 刷题笔记：
+Leetcode 刷题笔记 - 见 LeetCode 目录：
 
+- [1.两数之和 (Two Sum)](./LeetCode/0001.两数之和.md)
+- [2.两数相加 (Add Two Numbers)](./LeetCode/0002.两数相加.md)
+- [3.无重复字符的最长子串 (Longest Substring Without Repeating Characters)](./LeetCode/0003.无重复字符的最长子串.md)
 - 
 
-
-
-## 数据结构
-
-- 
-
-
-
-
+ 
 
 ## 学习资料
 
@@ -31,6 +29,12 @@ Leetcode 刷题笔记：
 
 资料收集：
 
+
+- [CyC2018/CS-Notes](<https://github.com/CyC2018/CS-Notes>)  -  含 Leetcode 题解。
+
+- [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
+
+  > Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 
 - [azl397985856/leetcode](<https://github.com/azl397985856/leetcode>)
 
@@ -44,10 +48,6 @@ Leetcode 刷题笔记：
 
   > LeetCode题解，151道题完整版
 
-- [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
-
-  > Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
-
 - 左耳朵耗子-陈皓：[haoel/leetcode](https://github.com/haoel/leetcode)
 
   > LeetCode Problems' Solutions
@@ -60,11 +60,13 @@ Leetcode 刷题笔记：
 
 - 《算法图解》
 - 《我的第一本算法书》
+- 《算法》（第四版）
+- 《大话数据结构》
 - …
 
 视频：
 
-- 花花酱LeetCode 视频：[Bilibili 传送门](<https://space.bilibili.com/9880352/channel/index>)  |  [YouTube 传送门](<https://www.youtube.com/user/xxfflower/playlists>)
+- 花花酱 LeetCode 视频：[Bilibili 传送门](<https://space.bilibili.com/9880352/channel/index>)  |  [YouTube 传送门](<https://www.youtube.com/user/xxfflower/playlists>)
 - bobo老师：[深度实战玩转算法-慕课网实战](https://coding.imooc.com/class/138.html)
 
 网站：

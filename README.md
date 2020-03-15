@@ -1,5 +1,5 @@
 # 数据结构与算法学习
-记录数据结构与算法的学习过程、LeetCode刷题，为大厂努力...
+记录数据结构与算法、LeetCode刷题的学习历程...
 
 数据结构
 ---
@@ -16,10 +16,9 @@
 
 Leetcode 刷题笔记 - 见 LeetCode 目录：
 
-- [1.两数之和 (Two Sum)](./LeetCode/0001.两数之和.md)
-- [2.两数相加 (Add Two Numbers)](./LeetCode/0002.两数相加.md)
-- [3.无重复字符的最长子串 (Longest Substring Without Repeating Characters)](./LeetCode/0003.无重复字符的最长子串.md)
-- 
+- [1.两数之和 (Two Sum)](./leetcode/0001.两数之和.md)
+- [2.两数相加 (Add Two Numbers)](./leetcode/0002.两数相加.md)
+- [3.无重复字符的最长子串 (Longest Substring Without Repeating Characters)](./leetcode/0003.无重复字符的最长子串.md)
 
  
 

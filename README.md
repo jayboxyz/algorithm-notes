@@ -14,13 +14,13 @@
   - 题库：  <https://leetcode-cn.com/problemset/all/>  【荐】（直接进去刷题）
 - 牛客网：<https://www.nowcoder.com>
 
-Leetcode 刷题笔记 - 见 LeetCode 目录：
+LeetCode 刷题：
 
-- [1.两数之和 (Two Sum)](./leetcode/0001.两数之和.md)
-- [2.两数相加 (Add Two Numbers)](./leetcode/0002.两数相加.md)
-- [3.无重复字符的最长子串 (Longest Substring Without Repeating Characters)](./leetcode/0003.无重复字符的最长子串.md)
+- [LeetCode刷题-索引](./LeetCode/README.md)
 
  
+
+
 
 ## 学习资料
 
